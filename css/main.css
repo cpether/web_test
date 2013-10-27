@@ -1,0 +1,21 @@
+/*
+ * 	Name: Smashing HTML5
+	Date: July 2009
+	Description: Sample layout for HTML5 and CSS3 goodness.
+	Version: 1.0
+	Author: Enrique Ramírez
+	Autor URI: http://enrique-ramirez.com
+*/
+ 
+/***** Global *****/
+/* Body */
+	body {
+		background: #333333;
+		color: #EEEEEE;
+		font-size: 87.5%; /* Base font size: 14px */
+		font-family: 'Trebuchet MS', Trebuchet, 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+		line-height: 1.429;
+		margin: 0;
+		padding: 0;
+		text-align: left;
+	}
